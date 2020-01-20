@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'name' => env('APP_NAME', 'Plataforma ICP'),
+    'name' => env('APP_NAME', 'Plat Suporte'),
 
     /*
     |--------------------------------------------------------------------------

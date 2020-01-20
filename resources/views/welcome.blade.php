@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Plataforma ICP</title>
+        <title>Plat. Suporte</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet" type="text/css">
@@ -83,11 +83,11 @@
             <div class="content">
                 <div class="title m-b-md">
 
-                    <img src="http://www.icp-la.com.br/teste/wp-content/themes/icpla/img/icp-latin-america.png">
+                    <img src="https://www.onlinecertificadora.com.br/CMS/UPLOAD/UPLOAD_1013/Certificado-Digital-Suporte-Remoto-2.png">
                 </div>
 
                 <div class="links">
-                    <a>Plataforma Comercial</a>
+                    <a>Plataforma de Suporte</a>
                 </div>
             </div>
         </div>
